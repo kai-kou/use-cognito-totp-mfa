@@ -1,4 +1,4 @@
-# use-cognite-totp-mfa
+# use-cognito-totp-mfa
 
 Amazon Cognitoのワンタイムパスワード(TOTP)認証をNode.jsで試してみた  
 
@@ -9,8 +9,8 @@ Amazon Cognitoのワンタイムパスワード(TOTP)認証をNode.jsで試し�
 ## Usage
 
 ```sh
-> git clone https://github.com/kai-kou/use-cognite-totp-mfa.git
-> cd use-cognite-totp-mfa
+> git clone https://github.com/kai-kou/use-cognito-totp-mfa.git
+> cd use-cognito-totp-mfa
 > npm install
 
 # CognitoのユーザープールIDとクライアントアプリIDを設定する
